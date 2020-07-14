@@ -1,5 +1,12 @@
 # vue-sample-app
+  
+ホスティングサービスなどで確認用に使うVue.jsプロジェクトです。  
 
+## version
+```
+@vue/cli@4.2.2
+```
+  
 ## Project setup
 ```
 npm install
@@ -20,5 +27,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
